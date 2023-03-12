@@ -1,0 +1,7 @@
+services:
+  oddandeven.number_service:
+    class: Drupal\oddandeven\NumberService
+
+  oddandeven.time_service:
+    class: Drupal\oddandeven\TimeService
+

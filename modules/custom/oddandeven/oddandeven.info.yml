@@ -1,0 +1,5 @@
+name: 'Odd and even module'
+type: module
+core_version_requirement: '9.5.4'
+description: 'Module that determines if the current minute is odd or even'
+package: 'Odd and even'

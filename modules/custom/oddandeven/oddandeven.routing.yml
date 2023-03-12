@@ -1,0 +1,7 @@
+oddandeven.checkminute:
+  path: '/odd-and-even'
+  defaults:
+    _controller: '\Drupal\oddandeven\Controller\OddAndEvenController::checkMinute'
+    _title: 'Odd or even minute'
+  requirements:
+    _permission: 'access content'
